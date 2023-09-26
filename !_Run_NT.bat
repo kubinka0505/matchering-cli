@@ -1,0 +1,1 @@
+py mg_cli.py -i "" -r ""

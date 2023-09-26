@@ -1,0 +1,5 @@
+matchering >= 2.0.6
+mutagen >= 1.45.1
+
+requests >= 2.12.5
+distro >= 1.7; sys_platform != "win32"
